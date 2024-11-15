@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Igoreconomics
+- 👋 Hi, I’m Igor Durkheim (This is my Nick Name)
 - 👀 I’m interested in learning analyzing economic data in support of decision-making in a fairer and more sustainable world
 - 🌱 I’m currently learning how to work with government databases and use microeconometric models for my academic work
 - 💞️ I’m looking to collaborate on phyton, R and Latex codes for work with data in economics
